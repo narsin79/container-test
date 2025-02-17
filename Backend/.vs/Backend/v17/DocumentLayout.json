@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\narin\\Desktop\\AzureDevOpps\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62A052EB-077A-4181-863C-37FE15AD877B}|Backend.csproj|c:\\users\\narin\\desktop\\azuredevopps\\backend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{62A052EB-077A-4181-863C-37FE15AD877B}|Backend.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{04C4CCB9-BEA4-4AED-90BA-1032CEF4D9D5}|Backend.csproj|c:\\users\\narin\\desktop\\azuredevopps\\backend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{04C4CCB9-BEA4-4AED-90BA-1032CEF4D9D5}|Backend.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C4CCB9-BEA4-4AED-90BA-1032CEF4D9D5}|Backend.csproj|c:\\users\\narin\\desktop\\azuredevopps\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04C4CCB9-BEA4-4AED-90BA-1032CEF4D9D5}|Backend.csproj|solutionrelative:backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Backend",
+              "DocumentMoniker": "C:\\Users\\narin\\Desktop\\AzureDevOpps\\Backend\\Backend.csproj",
+              "RelativeDocumentMoniker": "Backend.csproj",
+              "ToolTip": "C:\\Users\\narin\\Desktop\\AzureDevOpps\\Backend\\Backend.csproj",
+              "RelativeToolTip": "Backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T16:12:03.207Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +41,9 @@
               "RelativeDocumentMoniker": "Dockerfile",
               "ToolTip": "C:\\Users\\narin\\Desktop\\AzureDevOpps\\Backend\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-17T15:38:57.044Z",
+              "WhenOpened": "2025-02-17T16:12:18.047Z",
               "EditorCaption": ""
             }
           ]

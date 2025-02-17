@@ -17,6 +17,7 @@ C:\Users\narin\Desktop\AzureDevOpps\Backend\obj\Debug\net8.0\Backend.AssemblyInf
 C:\Users\narin\Desktop\AzureDevOpps\Backend\obj\Debug\net8.0\Backend.csproj.CoreCompileInputs.cache
 C:\Users\narin\Desktop\AzureDevOpps\Backend\obj\Debug\net8.0\Backend.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\narin\Desktop\AzureDevOpps\Backend\obj\Debug\net8.0\Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\narin\Desktop\AzureDevOpps\Backend\obj\Debug\net8.0\Backend.sourcelink.json
 C:\Users\narin\Desktop\AzureDevOpps\Backend\obj\Debug\net8.0\scopedcss\bundle\Backend.styles.css
 C:\Users\narin\Desktop\AzureDevOpps\Backend\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\narin\Desktop\AzureDevOpps\Backend\obj\Debug\net8.0\staticwebassets.development.json
